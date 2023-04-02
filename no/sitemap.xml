@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andersandersen.no/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://andersandersen.no/no/"
-                />
+    <loc>https://andersandersen.no/no/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://andersandersen.no/"
                 />
-  </url><url>
-    <loc>https://andersandersen.no/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://andersandersen.no/no/authors/"
+                href="https://andersandersen.no/no/"
                 />
+  </url><url>
+    <loc>https://andersandersen.no/no/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://andersandersen.no/authors/"
                 />
-  </url><url>
-    <loc>https://andersandersen.no/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://andersandersen.no/no/categories/"
+                href="https://andersandersen.no/no/authors/"
                 />
+  </url><url>
+    <loc>https://andersandersen.no/no/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://andersandersen.no/categories/"
                 />
-  </url><url>
-    <loc>https://andersandersen.no/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://andersandersen.no/no/series/"
+                href="https://andersandersen.no/no/categories/"
                 />
+  </url><url>
+    <loc>https://andersandersen.no/no/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://andersandersen.no/series/"
                 />
-  </url><url>
-    <loc>https://andersandersen.no/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
-                href="https://andersandersen.no/no/tags/"
+                href="https://andersandersen.no/no/series/"
                 />
+  </url><url>
+    <loc>https://andersandersen.no/no/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://andersandersen.no/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/tags/"
                 />
   </url>
 </urlset>
