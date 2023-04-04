@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on andersandersen</title>
+    <link>https://andersandersen.no/tags/video/</link>
+    <description>Recent content in video on andersandersen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andersandersen.no/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Multimedia Video</title>
+      <link>https://andersandersen.no/posts/multimedia-video/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersandersen.no/posts/multimedia-video/</guid>
+      <description> Check it out Link to heading </description>
+    </item>
+    
+  </channel>
+</rss>

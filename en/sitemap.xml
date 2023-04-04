@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://andersandersen.no/posts/multimedia-video/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/posts/multimedia-video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/posts/multimedia-video/"
+                />
+  </url><url>
+    <loc>https://andersandersen.no/about/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/about/"
+                />
+  </url><url>
     <loc>https://andersandersen.no/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="no"
@@ -12,6 +39,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://andersandersen.no/"
+                />
+  </url><url>
+    <loc>https://andersandersen.no/tags/maths/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/tags/maths/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/tags/maths/"
+                />
+  </url><url>
+    <loc>https://andersandersen.no/posts/favorite-theorem/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/posts/favorite-theorem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/posts/favorite-theorem/"
+                />
+  </url><url>
+    <loc>https://andersandersen.no/posts/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/posts/"
+                />
+  </url><url>
+    <loc>https://andersandersen.no/tags/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/tags/"
+                />
+  </url><url>
+    <loc>https://andersandersen.no/tags/video/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/tags/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/tags/video/"
                 />
   </url><url>
     <loc>https://andersandersen.no/authors/</loc>
@@ -38,6 +130,30 @@
                 href="https://andersandersen.no/categories/"
                 />
   </url><url>
+    <loc>https://andersandersen.no/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/contact/"
+                />
+  </url><url>
+    <loc>https://andersandersen.no/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://andersandersen.no/no/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andersandersen.no/projects/"
+                />
+  </url><url>
     <loc>https://andersandersen.no/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,18 +164,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://andersandersen.no/series/"
-                />
-  </url><url>
-    <loc>https://andersandersen.no/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://andersandersen.no/no/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andersandersen.no/tags/"
                 />
   </url>
 </urlset>

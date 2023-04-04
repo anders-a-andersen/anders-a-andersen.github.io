@@ -5,6 +5,55 @@
     <link>https://andersandersen.no/</link>
     <description>Recent content on andersandersen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://andersandersen.no/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andersandersen.no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Multimedia Video</title>
+      <link>https://andersandersen.no/posts/multimedia-video/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersandersen.no/posts/multimedia-video/</guid>
+      <description> Check it out Link to heading </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://andersandersen.no/about/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersandersen.no/about/</guid>
+      <description>Welcome to my website!
+I am Anders, the guy sketched on the front page. Credits to a friend of mine.
+I made this website for a plethora of reasons, and I won&amp;rsquo;t go through them all here, but a reason is that I wanted to hold not be shy of creative stuff I&amp;rsquo;ve made, and to hold my self accountable for future projects. The logic being that if I shared future plans online, it would be lame to not complete them (without a good reason) after the fact with.</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Theorem</title>
+      <link>https://andersandersen.no/posts/favorite-theorem/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersandersen.no/posts/favorite-theorem/</guid>
+      <description>My favorite theorem is the generalized Stokes theorem. See Wikipedia for more information.
+I have yet to figure out how to get LaTeX to work, so this post is cut short.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://andersandersen.no/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersandersen.no/contact/</guid>
+      <description>Will soon add contact information!</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://andersandersen.no/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersandersen.no/projects/</guid>
+      <description>Will add theses and other projects here soon.</description>
+    </item>
+    
   </channel>
 </rss>

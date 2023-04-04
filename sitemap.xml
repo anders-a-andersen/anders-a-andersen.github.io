@@ -4,10 +4,14 @@
   <sitemap>
     <loc>https://andersandersen.no/en/sitemap.xml</loc>
     
+      <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+    
   </sitemap>
   
   <sitemap>
     <loc>https://andersandersen.no/no/sitemap.xml</loc>
+    
+      <lastmod>2023-04-04T00:00:00+00:00</lastmod>
     
   </sitemap>
   

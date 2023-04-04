@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maths on andersandersen</title>
+    <link>https://andersandersen.no/tags/maths/</link>
+    <description>Recent content in maths on andersandersen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://andersandersen.no/tags/maths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Favorite Theorem</title>
+      <link>https://andersandersen.no/posts/favorite-theorem/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://andersandersen.no/posts/favorite-theorem/</guid>
+      <description>My favorite theorem is the generalized Stokes theorem. See Wikipedia for more information.
+I have yet to figure out how to get LaTeX to work, so this post is cut short.</description>
+    </item>
+    
+  </channel>
+</rss>
